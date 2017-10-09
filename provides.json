@@ -1,0 +1,11 @@
+{
+  "providers": [
+    "Vanthink\\Excel\\ExcelServiceProvider"
+  ],
+  "aliases": [
+    {
+      "alias": "VExcel",
+      "facade": "Vanthink\\Excel\\Facades\\Excel"
+    }
+  ]
+}
