@@ -1,5 +1,6 @@
 {
   "name": "vanthink/excel",
+  "license": "MIT",
   "keywords": [
     "laravel",
     "excel"
